@@ -1,8 +1,8 @@
 {
   "id": "SteamGridDB",
   "name": "SteamGridDB",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "SteamGridDB game names and links, with community covers, heroes, icons, and logos. Requires an API key.",
-  "minimum_playlite_version": "0.2.0",
+  "minimum_playlite_version": "0.2.4",
   "repository": "swolfgang-dev/playlite-plugin-steamgriddb-releases"
 }
